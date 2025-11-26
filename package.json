@@ -1,0 +1,10 @@
+{
+  "name": "AIDD-30-Day-Challenge-Task-6",
+  "version": "1.0.0",
+  "description": "A project for AIDD-30-Day-Challenge-Task-6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
